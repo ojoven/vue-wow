@@ -12,13 +12,13 @@
 ### NPM
 
 ```bash
-$ npm install git+https://github.com/guisoares2011/vue-wow
+$ npm install git+https://github.com/ojoven/vue-wow
 ```
 
 ### Yarn
 
 ```bash
-$ yarn add https://github.com/guisoares2011/vue-wow
+$ yarn add https://github.com/ojoven/vue-wow
 ```
 
 ## Integrate with Vue
